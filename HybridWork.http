@@ -1,0 +1,6 @@
+@HybridWork_HostAddress = http://localhost:5208
+
+GET {{HybridWork_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
