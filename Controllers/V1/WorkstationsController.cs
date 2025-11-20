@@ -1,6 +1,7 @@
 using HybridWork.Dtos;
 using HybridWork.Models;
 using HybridWork.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace HybridWork.Controllers.V1
 {
+    [Authorize]
     [ApiController]
     [Route("api/v1/[controller]")]
     public class WorkstationsController : ControllerBase

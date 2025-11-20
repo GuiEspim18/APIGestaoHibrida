@@ -45,3 +45,13 @@
 /Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/obj/Debug/net8.0/HybridWork.pdb
 /Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/obj/Debug/net8.0/HybridWork.genruntimeconfig.cache
 /Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/obj/Debug/net8.0/ref/HybridWork.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/guiespim/Documents/pasta-do-gui/csharp/HybridWork/obj/Debug/net8.0/HybridWork.sourcelink.json
