@@ -95,3 +95,7 @@
     <li>Autenticação via JWT</li>
     <li>Integração com MongoDB para persistência de dados</li>
 </ul>
+
+<h2>Diagrama</h2>
+
+<img src="diagrama.svg">
